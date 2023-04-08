@@ -1,0 +1,10 @@
+Equipo1|Ganados:1|Perdidos:2|Empatados:1|GF:8|GC:8 
+Equipo2|Ganados:3|Perdidos:0|Empatados:1|GF:11|GC:7 
+Equipo3|Ganados:1|Perdidos:3|Empatados:0|GF:5|GC:7 
+Equipo4|Ganados:2|Perdidos:1|Empatados:1|GF:4|GC:4 
+Equipo5|Ganados:1|Perdidos:2|Empatados:1|GF:3|GC:5 
+Equipo1|Ganados:1|Perdidos:2|Empatados:1|GF:8|GC:8 
+Equipo2|Ganados:3|Perdidos:0|Empatados:1|GF:11|GC:7 
+Equipo3|Ganados:1|Perdidos:3|Empatados:0|GF:5|GC:7 
+Equipo4|Ganados:2|Perdidos:1|Empatados:1|GF:4|GC:4 
+Equipo5|Ganados:1|Perdidos:2|Empatados:1|GF:3|GC:5 

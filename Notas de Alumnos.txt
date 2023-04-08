@@ -1,0 +1,12 @@
+Legajo:1001|Nota:10 
+Legajo:1001|Nota:8 
+Legajo:1001|Nota:9 
+Legajo:1001|Nota:6 
+Legajo:1001|Nota:10 
+Legajo:1002|Nota:8 
+Legajo:1001|Nota:10 
+Legajo:1002|Nota:8 
+Legajo:1001|Nota:10 
+Legajo:1002|Nota:8 
+Legajo:1001|Nota:10 
+Legajo:1002|Nota:8 
