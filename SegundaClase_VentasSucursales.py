@@ -32,7 +32,8 @@ for i in range(cant_suc):
 for i in range(cant_suc):
     print(f"La sucursal N° {i + 1} registro un total de ventas anual de {ventas_anuales_suc[i]} ventas")
 
-# Se recorre el vector de ventas anual por sucursal y se comparan las cant de ventas para obtener la sucursal que mayor ventas tuvo
+# Se recorre el vector de ventas anual por sucursal y se comparan las cant de ventas para obtener la sucursal que
+# mayor ventas tuvo
 for i in range(cant_suc):
     if ventas_anuales_suc[i] > mayor_venta:
         mayor_venta = ventas_anuales_suc[i]
